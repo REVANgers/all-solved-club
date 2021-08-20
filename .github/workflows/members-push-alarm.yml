@@ -17,7 +17,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f ./slack/requirements.txt ]; then pip install -r requirements.txt; fi
+        if [ -f ./slack/requirements.txt ]; then pip install -r ./slack/requirements.txt; fi
     - name: Check Diff files
       run: git diff --name-only HEAD^ HEAD > diff.txt
     - name: Run python script
