@@ -1,0 +1,23 @@
+name: Leetcode Challenge Alarm
+
+on:
+  schedule:
+    # 한국 시간으로 평일 16시 실행
+    - cron: '0 7 * * 1-5'
+jobs:
+  leetcode-challenge-alarm:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f ./slack/requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run python script
+      run: python ./slack/leetcode-challenge-alarm.py
+      env:
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
