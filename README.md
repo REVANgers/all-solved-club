@@ -8,7 +8,7 @@
 
 2. 개인 폴더의 이름을 Slack 멤버 ID와 동일하게 설정할 경우 자동 알림 설정이 됩니다. (구현 예정)
 
-   <img src="https://raw.githubusercontent.com/powerticket/typora-image-repo/image/img/image-20210820183230979.png" width="50%" /><img src="https://raw.githubusercontent.com/powerticket/typora-image-repo/image/img/image-20210820183237048.png" width="50%" />
+   <img src="https://raw.githubusercontent.com/powerticket/typora-image-repo/image/img/image-20210820184057398.png" width="50%" /><img src="https://raw.githubusercontent.com/powerticket/typora-image-repo/image/img/image-20210820183237048.png" width="50%" />
 
 3. 단일 브랜치를 사용하기 때문에 `push` 전, 반드시 `pull`을 수행해주세요.
 
