@@ -1,5 +1,4 @@
 // https://programmers.co.kr/learn/courses/30/lessons/84021
-// 테스트케이스 6,7 fail
 
 const ON = 1;
 const OFF = 0;
@@ -12,8 +11,7 @@ function Point(y, x, value) {
 
 function Block(points) {
   this.points = points;
-  this.onCount = points.filter(point => point.value === ON).length;
-  this.offCount = points.filter(point => point.value === OFF).length;
+
   this.sortPoints = () =>
     this.points.sort((a, b) => {
       if (a.y !== b.y) {
@@ -87,24 +85,26 @@ function Block(points) {
 }
 
 const makeBlock = (board, pivotY, pivotX, blockStatus, visited) => {
-  const dy = [0, 1, 0];
-  const dx = [1, 0, -1];
+  const dy = [0, 1, 0, -1];
+  const dx = [1, 0, -1, 0];
   const y = 0;
   const x = 0;
   const q = [{ y, x }];
-  visited[pivotY + y][pivotX + x] = true;
   const points = [new Point(y, x, blockStatus)];
+
+  visited[pivotY + y][pivotX + x] = true;
 
   while (q.length > 0) {
     let { y, x } = q.shift();
 
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 4; i++) {
       const nextY = y + dy[i];
       const nextX = x + dx[i];
 
       if (
         nextY + pivotY >= board.length ||
         nextX + pivotX >= board.length ||
+        nextY + pivotY < 0 ||
         nextX + pivotX < 0
       ) {
         continue;
@@ -124,6 +124,17 @@ const makeBlock = (board, pivotY, pivotX, blockStatus, visited) => {
 
   return new Block(points);
 };
+
+const isSameBlock = (blockA, blockB) =>
+  blockA.points.every((point, index) => {
+    if (
+      point.y === blockB.points[index].y &&
+      point.x === blockB.points[index].x
+    ) {
+      return true;
+    }
+    return false;
+  });
 
 function solution(game_board, table) {
   let answer = 0;
@@ -164,22 +175,12 @@ function solution(game_board, table) {
 
   emptyList.forEach(emptyBlock => {
     for (let i = 0; i < puzzleList.length; i++) {
-      if (emptyBlock.offCount !== puzzleList[i].onCount) {
+      if (emptyBlock.points.length !== puzzleList[i].points.length) {
         continue;
       }
 
       for (let j = 0; j < 4; j++) {
-        if (
-          emptyBlock.points.every((point, index) => {
-            if (
-              point.y === puzzleList[i].points[index].y &&
-              point.x === puzzleList[i].points[index].x
-            ) {
-              return true;
-            }
-            return false;
-          })
-        ) {
+        if (isSameBlock(emptyBlock, puzzleList[i])) {
           answer += emptyBlock.points.length;
           puzzleList.splice(i, 1);
           return;
