@@ -50,15 +50,6 @@ void bfs() {
     }
 }
 
-void print() {
-    for(int i=1; i<n; i++){
-        for(int j=1; j<m; j++){
-            printf("%d ", dist[i][j]);
-        }
-        printf("\n");
-    }
-}
-
 int main() {
     getInput();
     bfs();

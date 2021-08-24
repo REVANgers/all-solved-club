@@ -58,6 +58,7 @@ dkms.conf
 
 ### C++ ###
 # Prerequisites
+bits/
 
 # Compiled Object files
 *.slo
