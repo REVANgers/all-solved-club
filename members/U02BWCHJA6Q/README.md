@@ -40,3 +40,6 @@
 - [x] 괄호 변환
   - [문제링크](https://www.welcomekakao.com/learn/courses/30/lessons/60058)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/괄호_변환.js)
+- [x] 자물쇠와 열쇠
+  - [문제링크](https://www.welcomekakao.com/learn/courses/30/lessons/60059)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/자물쇠와_열쇠.js)
