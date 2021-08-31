@@ -49,3 +49,15 @@
 - [x] 외벽 점검
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/60062)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/외벽_점검.js)
+- [x] 블록 이동하기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/60063)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/블록_이동하기.js)
+
+### 2019 KAKAO BLIND RECRUITMENT
+
+- 실패율
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42889)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/실패율.js)
+- 오픈채팅방
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42888)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/오픈채팅방.js)
