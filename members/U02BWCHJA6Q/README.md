@@ -10,6 +10,9 @@
 - [x] 4주차 직업군 추천하기
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/84325)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/직업군_추천하기.js)
+- [x] 5주차 모음 사전
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/84512)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/모음_사전.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
@@ -61,3 +64,6 @@
 - 오픈채팅방
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42888)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/오픈채팅방.js)
+- 후보키
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42890)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/후보키.js)
