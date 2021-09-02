@@ -67,3 +67,9 @@
 - 후보키
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42890)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/후보키.js)
+- 길 찾기 게임
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42892)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/길_찾기_게임.js)
+- 매칭 점수
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42893)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/매칭_점수.js)
