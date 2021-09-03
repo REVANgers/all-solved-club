@@ -58,18 +58,24 @@
 
 ### 2019 KAKAO BLIND RECRUITMENT
 
-- 실패율
+- [x] 실패율
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42889)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/실패율.js)
-- 오픈채팅방
+- [x] 오픈채팅방
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42888)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/오픈채팅방.js)
-- 후보키
+- [x] 후보키
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42890)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/후보키.js)
-- 길 찾기 게임
+- [x] 길 찾기 게임
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42892)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/길_찾기_게임.js)
-- 매칭 점수
+- [x] 매칭 점수
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42893)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/매칭_점수.js)
+
+### 2021 2021 카카오 채용연계형 인턴십
+
+- [x] 숫자 문자열과 영단어
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81301)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/숫자_문자열과_영단어.js)
