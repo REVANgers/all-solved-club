@@ -37,7 +37,7 @@ int rotateArray(vector<vector<int>> &arr, const vector<int> &query){
     cout << s_row << "," << s_col <<","<<e_row<<","<<e_col<<"\n";
     int prev = arr[s_row][s_col];
     int temp;
-    int min = prev;
+    int min = INT32_MAX;
     for(int i=s_col; i<=e_col; i++){
         temp = arr[s_row][i];
         arr[s_row][i] = prev;
@@ -61,6 +61,8 @@ int rotateArray(vector<vector<int>> &arr, const vector<int> &query){
         prev = temp;
         min = min > temp ? temp : min;
     }
+
+    return min;
 }
 
 
