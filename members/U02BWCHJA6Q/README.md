@@ -13,6 +13,9 @@
 - [x] 5주차 모음 사전
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/84512)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/모음_사전.js)
+- [x] 6주차 복서 정렬하기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/85002)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/복서_정렬하기.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
@@ -79,3 +82,9 @@
 - [x] 숫자 문자열과 영단어
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81301)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/숫자_문자열과_영단어.js)
+- [x] 거리두기 확인하기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81302)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/거리두기_확인하기.js)
+- [x] 표 편집
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81303)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/표_편집.js)
