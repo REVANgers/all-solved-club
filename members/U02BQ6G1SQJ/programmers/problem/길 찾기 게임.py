@@ -71,13 +71,13 @@ def makeBinaryTree(nodeList : list) -> TreeNode:
     right = makeBinaryTree(list(filter(lambda k : (k[1] > rootNode[1]), nodeList)));
     return TreeNode(rootNode[0], left, right);
     
-def preorder(curNode) -> list:
+def preorder(curNode : TreeNode) -> list:
     if (curNode == None):
         return [];
     
     left = preorder(curNode.left);
     right = preorder(curNode.right);
-    return [curNode.val] + left + right;
+    return ([curNode.val] + left + right);
 
 def postorder(curNode : TreeNode) -> list:
     if (curNode == None):
@@ -85,7 +85,7 @@ def postorder(curNode : TreeNode) -> list:
     
     left = postorder(curNode.left);
     right = postorder(curNode.right);
-    return left + right + [curNode.val];
+    return (left + right + [curNode.val]);
     
 def solution(nodeinfo : list) -> list:
     sys.setrecursionlimit(MAX_NODE_CNT);
