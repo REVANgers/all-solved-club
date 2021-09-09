@@ -77,7 +77,7 @@
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42893)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2019/매칭_점수.js)
 
-### 2021 2021 카카오 채용연계형 인턴십
+### 2021 카카오 채용연계형 인턴십
 
 - [x] 숫자 문자열과 영단어
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81301)
@@ -88,3 +88,36 @@
 - [x] 표 편집
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81303)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/표_편집.js)
+
+### 2020 카카오 인턴십
+
+- [x] 키패트 누르기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/67256)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2020/키패드_누르기.js)
+- [x] 수식 최대화
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/67257)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2020/수식_최대화.js)
+- [x] 보석 쇼핑
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/67258)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2020/보석_쇼핑.js)
+- [x] 경주로 건설
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/67259)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2020/경주로_건설.js)
+
+### 2019 카카오 인턴십
+
+- [x] 크레인 인형 뽑기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64061)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/크레인_인형_뽑기.js)
+- [x] 튜플
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64065)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/튜플.js)
+- [x] 불량 사용자
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64064)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/불량_사용자.js)
+- [x] 징검다리 건너기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64062)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/징검다리_건너기.js)
+- [x] 호텔 방 배정
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64063)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/호텔_방_배정.js)
