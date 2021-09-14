@@ -16,6 +16,9 @@
 - [x] 6주차 복서 정렬하기
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/85002)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/복서_정렬하기.js)
+- [x] 7주차 입실 퇴실
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86048)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/입실_퇴실.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
