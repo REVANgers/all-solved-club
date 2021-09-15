@@ -2,6 +2,15 @@
 
 ## 프로그래머스
 
+### 월간 코드 챌린지 시즌 3
+
+- [x] 없는 숫자 더하기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86051)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/없는_숫자_더하기.js)
+- [x] 빛의*경로*사이클
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86052)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/빛의_경로_사이클.js)
+
 ### 위클리 챌린지
 
 - [x] 3주차 퍼즐조각 채우기
