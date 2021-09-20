@@ -7,9 +7,12 @@
 - [x] 없는 숫자 더하기
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86051)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/없는_숫자_더하기.js)
-- [x] 빛의*경로*사이클
+- [x] 빛의 경로 사이클
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86052)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/빛의_경로_사이클.js)
+- [x] 금과 은 운반하기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86053)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/금과_은_운반하기.js)
 
 ### 위클리 챌린지
 
@@ -61,7 +64,7 @@
 - [x] 자물쇠와 열쇠
   - [문제링크](https://www.welcomekakao.com/learn/courses/30/lessons/60059)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/자물쇠와_열쇠.js)
-- [x] 기둥과*보*설치.js
+- [x] 기둥과 보 설치.js
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/60061)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/기둥과_보_설치.js)
 - [x] 외벽 점검
