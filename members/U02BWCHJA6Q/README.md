@@ -31,6 +31,9 @@
 - [x] 7주차 입실 퇴실
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86048)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/입실_퇴실.js)
+- [x] 8주차 최소직사각형
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86491)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/최소직사각형.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
