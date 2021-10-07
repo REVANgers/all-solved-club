@@ -34,6 +34,9 @@
 - [x] 8주차 최소직사각형
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86491)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/최소직사각형.js)
+- [x] 9주자 전력망을 둘로 나누기
+  - [문제링크] (https://programmers.co.kr/learn/courses/30/lessons/86971)
+  - [코드] (https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/전력망을_둘로_나누기.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
@@ -137,5 +140,12 @@
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64062)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/징검다리_건너기.js)
 - [x] 호텔 방 배정
+
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64063)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/호텔_방_배정.js)
+
+  ### Summer/Winter Coding(~2018)
+
+  - [x] 스티커 모으기(2)
+    - [묹제링크] (https://programmers.co.kr/learn/courses/30/lessons/12971)
+    - [코드] (https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/summer_winter_2018/스티커_모으기_2.js)
