@@ -155,3 +155,12 @@
 - Add binary
   - [문제링크](https://leetcode.com/problems/add-binary)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/add_binary.js)
+- Binary Search
+  - [문제링크](https://leetcode.com/problems/binary-search/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/binary_search.js)
+- First Bad Version
+  - [문제링크](https://leetcode.com/problems/first-bad-version/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/first_bad_version.js)
+- Search Insert Position
+  - [문제링크](https://leetcode.com/problems/search-insert-position/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/search_insert_position.js)
