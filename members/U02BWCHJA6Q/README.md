@@ -164,3 +164,15 @@
 - Search Insert Position
   - [문제링크](https://leetcode.com/problems/search-insert-position/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/search_insert_position.js)
+- Squares of a Sorted Array
+  - [문제링크](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/squares_of_a_sorted_array.js)
+- Rotate Array
+  - [문제링크](https://leetcode.com/problems/rotate-array/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/rotate_array.js)
+- Moves Zeroes
+  - [문제링크](https://leetcode.com/problems/move-zeroes/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/283.js)
+- Two Sum II - Input array is sorted
+  - [문제링크](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/167.js)
