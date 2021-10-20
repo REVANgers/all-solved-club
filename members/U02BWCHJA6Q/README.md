@@ -188,3 +188,9 @@
 - Remove Nth Node From End of List
   - [문제링크](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/19.js)
+- Longest Substring Without Repeating Characters
+  - [문제링크](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/3.js)
+- Permutation in String
+  - [문제링크](https://leetcode.com/problems/permutation-in-string/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/567.js)
