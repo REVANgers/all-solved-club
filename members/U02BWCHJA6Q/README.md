@@ -200,3 +200,9 @@
 - Max Area of Island
   - [문제링크](https://leetcode.com/problems/max-area-of-island/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/695.js)
+- Merge Two Binary Trees
+  - [문제링크](https://leetcode.com/problems/merge-two-binary-trees/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/617.js)
+- Populating Next Right Pointers in Each Node
+  - [문제링크](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/116.js)
