@@ -206,3 +206,9 @@
 - Populating Next Right Pointers in Each Node
   - [문제링크](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/116.js)
+- 01 Matrix
+  - [문제코드](https://leetcode.com/problems/01-matrix/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/542.js)
+- Rotting Oranges
+  - [문제코드](https://leetcode.com/problems/rotting-oranges/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/994.js)
