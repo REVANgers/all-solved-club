@@ -212,3 +212,9 @@
 - Rotting Oranges
   - [문제코드](https://leetcode.com/problems/rotting-oranges/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/994.js)
+- Merge Two Sorted Lists
+  - [문제코드](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/21.js)
+- Reverse Linked List
+  - [문제코드](https://leetcode.com/problems/reverse-linked-list/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/206.js)
