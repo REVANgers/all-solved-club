@@ -218,3 +218,12 @@
 - Reverse Linked List
   - [문제코드](https://leetcode.com/problems/reverse-linked-list/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/206.js)
+- Combinations
+  - [문제코드](https://leetcode.com/problems/combinations/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/77.js)
+- Permutations
+  - [문제코드](https://leetcode.com/problems/permutations/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/46.js)
+- Letter Case Permutation
+  - [문제코드](https://leetcode.com/problems/letter-case-permutation/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/784.js)
