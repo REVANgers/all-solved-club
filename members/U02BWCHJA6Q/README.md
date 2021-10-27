@@ -236,3 +236,9 @@
 - Triangle
   - [문제링크](https://leetcode.com/problems/triangle/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/120.js)
+- Power of Two
+  - [문제링크](https://leetcode.com/problems/power-of-two/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/231.js)
+- Number of 1 Bits
+  - [문제링크](https://leetcode.com/problems/number-of-1-bits/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/191.js)
