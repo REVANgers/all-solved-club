@@ -242,3 +242,15 @@
 - Number of 1 Bits
   - [문제링크](https://leetcode.com/problems/number-of-1-bits/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/191.js)
+- Reverse Bits
+  - [문제링크](https://leetcode.com/problems/reverse-bits/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/190.js)
+- Single Number
+  - [문제링크](https://leetcode.com/problems/single-number/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/136.js)
+- Contains Duplicate
+  - [문제링크](https://leetcode.com/problems/contains-duplicate/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/217.js)
+- Maximum Subarray
+  - [문제링크](https://leetcode.com/problems/maximum-subarray/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/53.js)
