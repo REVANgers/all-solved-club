@@ -254,3 +254,9 @@
 - Maximum Subarray
   - [문제링크](https://leetcode.com/problems/maximum-subarray/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/53.js)
+- Two Sum
+  - [문제코드](https://leetcode.com/problems/two-sum/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/1.js)
+- Merge Sorted Array
+  - [문제링크](https://leetcode.com/problems/merge-sorted-array/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/88.js)
