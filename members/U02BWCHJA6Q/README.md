@@ -266,3 +266,9 @@
 - Best Time to Buy and Sell Stock
   - [문제링크](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/121.js)
+- Reshape the Matrix
+  - [문제링크](https://leetcode.com/problems/reshape-the-matrix/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/566.js)
+- Pascal's Triangle
+  - [문제링크](https://leetcode.com/problems/pascals-triangle/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/118.js)
