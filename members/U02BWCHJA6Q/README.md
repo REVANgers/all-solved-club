@@ -272,3 +272,15 @@
 - Pascal's Triangle
   - [문제링크](https://leetcode.com/problems/pascals-triangle/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/118.js)
+- Valid Sudoku
+  - [문제링크](https://leetcode.com/problems/valid-sudoku/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/36.js)
+- Search a 2D Matrix
+  - [문제링크](https://leetcode.com/problems/search-a-2d-matrix/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/74.js)
+- Find First and Last Position of Element in Sorted Array
+  - [문제링크](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/34.js)
+- Search in Rotated Sorted Array
+  - [문제링크](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/33.js)
