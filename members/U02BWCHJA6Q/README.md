@@ -284,3 +284,12 @@
 - Search in Rotated Sorted Array
   - [문제링크](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/33.js)
+- First Unique Character in a String
+  - [문제링크](https://leetcode.com/problems/first-unique-character-in-a-string/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/387.js)
+- Ransom Note
+  - [문제링크](https://leetcode.com/problems/ransom-note/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/383.js)
+- Valid Anagram
+  - [문제링크](https://leetcode.com/problems/valid-anagram/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/242.js)
