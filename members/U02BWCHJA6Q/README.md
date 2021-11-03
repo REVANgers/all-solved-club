@@ -293,3 +293,9 @@
 - Valid Anagram
   - [문제링크](https://leetcode.com/problems/valid-anagram/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/242.js)
+- Find Minimum in Rotated Sorted Array
+  - [문제링크](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/153.js)
+- Find Peak Element
+  - [문제링크](https://leetcode.com/problems/find-peak-element/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/162.js)
