@@ -299,3 +299,12 @@
 - Find Peak Element
   - [문제링크](https://leetcode.com/problems/find-peak-element/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/162.js)
+- Linked List Cycle
+  - [문제링크](https://leetcode.com/problems/linked-list-cycle/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/141.js)
+- Remove Linked List Elements
+  - [문제링크](https://leetcode.com/problems/remove-linked-list-elements/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/203.js)
+- Remove Duplicates from Sorted List
+  - [문제링크](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/83.js)
