@@ -308,3 +308,12 @@
 - Remove Duplicates from Sorted List
   - [문제링크](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/83.js)
+- Spiral Matrix
+  - [문제링크](https://leetcode.com/problems/spiral-matrix/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/54.js)
+- Valid Parentheses
+  - [문제링크](https://leetcode.com/problems/valid-parentheses/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/20.js)
+- Implement Queue using Stacks
+  - [문제링크](https://leetcode.com/problems/implement-queue-using-stacks/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/232.js)
