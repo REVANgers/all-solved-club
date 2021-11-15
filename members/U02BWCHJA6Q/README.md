@@ -338,3 +338,12 @@
 - Subarray Product Less Than K
   - [문제링크](https://leetcode.com/problems/subarray-product-less-than-k/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/713.js)
+- Minimum Size Subarray Sum
+  - [문제링크](https://leetcode.com/problems/minimum-size-subarray-sum/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/713.js)
+- Number of Islands
+  - [문제링크](https://leetcode.com/problems/number-of-islands/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/200.js)
+- Number of Provinces
+  - [문제링크](https://leetcode.com/problems/number-of-provinces/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/547.js)
