@@ -351,11 +351,17 @@
   - [문제링크](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/117.js)
 - Subtree of Another Tree
-  - [문제코드](https://leetcode.com/problems/subtree-of-another-tree/)
+  - [문제링크](https://leetcode.com/problems/subtree-of-another-tree/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/572.js)
 - Shortest Path in Binary Matrix
-  - [문제코드](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+  - [문제링크](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/1091.js)
 - Surrounded Regions
-  - [문제코드](https://leetcode.com/problems/surrounded-regions/)
+  - [문제링크](https://leetcode.com/problems/surrounded-regions/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/130.js)
+- Majority Element
+  - [문제링크](https://leetcode.com/problems/majority-element/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/169.js)
+- Add Two Numbers
+  - [문제링크](https://leetcode.com/problems/add-two-numbers/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/2.js)
