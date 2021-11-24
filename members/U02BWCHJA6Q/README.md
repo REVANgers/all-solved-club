@@ -365,3 +365,12 @@
 - Add Two Numbers
   - [문제링크](https://leetcode.com/problems/add-two-numbers/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/2.js)
+- Integer to Roman
+  - [문제링크](https://leetcode.com/problems/integer-to-roman/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/12.js)
+- Sort Colors
+  - [문제링크](https://leetcode.com/problems/sort-colors/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/75.js)
+- Merge Intervals
+  - [문제링크](https://leetcode.com/problems/merge-intervals/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/56.js)
