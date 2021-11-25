@@ -374,3 +374,12 @@
 - Merge Intervals
   - [문제링크](https://leetcode.com/problems/merge-intervals/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/56.js)
+- Pascal's Triangle II
+  - [문제링크](https://leetcode.com/problems/pascals-triangle-ii/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/119.js)
+- Rotate Image
+  - [문제링크](https://leetcode.com/problems/rotate-image/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/48.js)
+- Spiral Matrix II
+  - [문제링크](https://leetcode.com/problems/spiral-matrix-ii/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/59.js)
