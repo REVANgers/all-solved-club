@@ -383,3 +383,9 @@
 - Spiral Matrix II
   - [문제링크](https://leetcode.com/problems/spiral-matrix-ii/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/59.js)
+- Search a 2D Matrix II
+  - [문제링크](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/240.js)
+- Non-overlapping Intervals
+  - [문제링크](https://leetcode.com/problems/non-overlapping-intervals/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/435.js)
