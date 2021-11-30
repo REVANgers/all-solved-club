@@ -398,3 +398,9 @@
 - Subarray Sum Equals K
   - [문제링크](https://leetcode.com/problems/subarray-sum-equals-k/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/560.js)
+- Add Strings
+  - [문제링크](https://leetcode.com/problems/add-strings/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/415.js)
+- Longest Palindrome
+  - [문제링크](https://leetcode.com/problems/longest-palindrome/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/409.js)
