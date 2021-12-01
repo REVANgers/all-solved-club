@@ -404,3 +404,9 @@
 - Longest Palindrome
   - [문제링크](https://leetcode.com/problems/longest-palindrome/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/409.js)
+- Word Pattern
+  - [문제링크](https://leetcode.com/problems/word-pattern/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/290.js)
+- Partition Labels
+  - [문제링크](https://leetcode.com/problems/partition-labels/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/763.js)
