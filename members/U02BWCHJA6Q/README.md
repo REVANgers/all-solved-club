@@ -413,3 +413,12 @@
 - Group Anagrams
   - [문제링크](https://leetcode.com/problems/group-anagrams/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/49.js)
+- Multiply Strings
+  - [문제링크](https://leetcode.com/problems/multiply-strings/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/43.js)
+- Repeated DNA Sequences
+  - [문제링크](https://leetcode.com/problems/repeated-dna-sequences/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/187.js)
+- Longest Palindromic Substring
+  - [문제링크](https://leetcode.com/problems/longest-palindromic-substring/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/5.js)
