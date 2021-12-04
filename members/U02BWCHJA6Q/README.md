@@ -422,3 +422,9 @@
 - Longest Palindromic Substring
   - [문제링크](https://leetcode.com/problems/longest-palindromic-substring/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/5.js)
+- Linked List Cycle II
+  - [문제링크](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/142.js)
+- Intersection of Two Linked Lists
+  - [문제링크](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/160.js)
