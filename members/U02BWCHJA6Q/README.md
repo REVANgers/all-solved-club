@@ -428,3 +428,6 @@
 - Intersection of Two Linked Lists
   - [문제링크](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/160.js)
+- Swap Nodes in Pairs
+  - [문제링크](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/24.js)
