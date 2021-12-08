@@ -434,3 +434,6 @@
 - Reorder List
   - [문제링크](https://leetcode.com/problems/reorder-list/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/143.js)
+- Minimum Remove to Make Valid Parentheses
+  - [문제링크](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/1249.js)
