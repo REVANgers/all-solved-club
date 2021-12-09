@@ -437,3 +437,6 @@
 - Minimum Remove to Make Valid Parentheses
   - [문제링크](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/1249.js)
+- Find the Winner of the Circular Game
+  - [문제링크](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/1823.js)
