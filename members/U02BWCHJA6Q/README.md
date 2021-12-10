@@ -440,3 +440,6 @@
 - Find the Winner of the Circular Game
   - [문제링크](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/1823.js)
+- Reverse Nodes in k-Group
+  - [문제링크](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/25.js)
