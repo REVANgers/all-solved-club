@@ -443,3 +443,6 @@
 - Reverse Nodes in k-Group
   - [문제링크](https://leetcode.com/problems/reverse-nodes-in-k-group/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/25.js)
+- Reverse Integer
+  - [문제링크](https://leetcode.com/problems/reverse-integer/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/7.js)
