@@ -446,3 +446,9 @@
 - Reverse Integer
   - [문제링크](https://leetcode.com/problems/reverse-integer/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/7.js)
+- Add Digits
+  - [묹제링크](https://leetcode.com/problems/add-digits/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/258.js)
+- Fizz Buzz
+  - [문제링크](https://leetcode.com/problems/fizz-buzz/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/412.js)
