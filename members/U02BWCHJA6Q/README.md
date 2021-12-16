@@ -452,3 +452,9 @@
 - Fizz Buzz
   - [문제링크](https://leetcode.com/problems/fizz-buzz/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/412.js)
+- Same Tree
+  - [문제링크](https://leetcode.com/problems/same-tree/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/100.js)
+- Symmetric Tree
+  - [문제링크](https://leetcode.com/problems/symmetric-tree/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/101.js)
