@@ -464,3 +464,6 @@
 - Clone Graph
   - [문제링크](https://leetcode.com/problems/clone-graph/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/133.js)
+- Set Matrix Zeroes
+  - [문제링크](https://leetcode.com/problems/set-matrix-zeroes/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/73.js)
