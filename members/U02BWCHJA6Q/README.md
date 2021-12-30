@@ -476,3 +476,9 @@
 - 3Sum Closest
   - [문제링크](https://leetcode.com/problems/3sum-closest/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/16.js)
+- Remove Element
+  - [문제링크](https://leetcode.com/problems/remove-element/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/27.js)
+- Combination Sum
+  - [문제링크](https://leetcode.com/problems/combination-sum/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/39.js)
