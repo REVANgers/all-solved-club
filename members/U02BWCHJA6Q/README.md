@@ -482,3 +482,6 @@
 - Combination Sum
   - [문제링크](https://leetcode.com/problems/combination-sum/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/39.js)
+- Missing Number
+  - [문제링크](https://leetcode.com/problems/missing-number/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/268.js)
