@@ -485,3 +485,6 @@
 - Missing Number
   - [문제링크](https://leetcode.com/problems/missing-number/)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/268.js)
+- Brick Wall
+  - [문제링크](https://leetcode.com/problems/brick-wall/)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/leetcode/554.js)
