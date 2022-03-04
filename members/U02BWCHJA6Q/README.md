@@ -38,6 +38,18 @@
   - [문제링크] (https://programmers.co.kr/learn/courses/30/lessons/86971)
   - [코드] (https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/전력망을_둘로_나누기.js)
 
+### 2022 KAKAO BLIND RECRUITMENT
+
+- [x] 신고 결과 받기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92334)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2022/신고_결과_받기.js)
+- [x] k진수에서 소수 개수 구하기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92335)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2022/k진수에서_소수_개수_구하기.js)
+- [x] 주차 요금 계산
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92341)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2022/주차_요금_계산.js)
+
 ### 2021 KAKAO BLIND RECRUITMENT
 
 - [x] 신규 아이디 추천
