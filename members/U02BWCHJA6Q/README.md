@@ -49,6 +49,12 @@
 - [x] 주차 요금 계산
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92341)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2022/주차_요금_계산.js)
+- [x] 양궁대회
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92342)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2022/양궁대회.js)
+- [x] 양과 늑대
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92343)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_20212/양과_늑대.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
