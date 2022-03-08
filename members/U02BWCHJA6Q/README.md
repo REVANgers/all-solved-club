@@ -55,6 +55,9 @@
 - [x] 양과 늑대
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92343)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_20212/양과_늑대.js)
+- [x] 파괴되지 않은 건물
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/92344)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_20212/파괴되지_않은_건물.js)
 
 ### 2021 KAKAO BLIND RECRUITMENT
 
