@@ -37,6 +37,15 @@
 - [x] 9주자 전력망을 둘로 나누기
   - [문제링크] (https://programmers.co.kr/learn/courses/30/lessons/86971)
   - [코드] (https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/전력망을_둘로_나누기.js)
+- [x] 피로도
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/87946)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/피로도.js)
+- [x] 교점에 별 만들기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/87377)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/교점에_별_만들기.js)
+- [x] 아이템 줍기
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/87694)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/weekly_challenge/아이템_줍기.js)
 
 ### 2022 KAKAO BLIND RECRUITMENT
 
