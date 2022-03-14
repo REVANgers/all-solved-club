@@ -13,6 +13,9 @@
 - [x] 금과 은 운반하기
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/86053)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/금과_은_운반하기.js)
+- [x] 공 이동 시뮬레이션
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/87391)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/monthly_cahllenge_3/공_이동_시뮬레이션.js)
 
 ### 위클리 챌린지
 
@@ -142,6 +145,9 @@
 - [x] 표 편집
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81303)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/표_편집.js)
+- [x] 미로 탈출
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/81304)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2021/미로_탈출.js)
 
 ### 2020 카카오 인턴십
 
