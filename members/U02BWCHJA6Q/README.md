@@ -94,6 +94,9 @@
 - [x] 카드 짝 맞추기
   - [문제링크](https://www.welcomekakao.com/learn/courses/30/lessons/72415)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2021/카드_짝_맞추기.js)
+- [x] 매출 하락 최소화
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/72416)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2021/매출_하락_최소화.js)
 
 ### 2020 KAKAO BLIND RECRUITMENT
 
