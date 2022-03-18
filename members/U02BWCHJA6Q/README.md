@@ -118,6 +118,9 @@
 - [x] 블록 이동하기
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/60063)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/블록_이동하기.js)
+- [x] 가사 검색
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/60060)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_2020/가사_검색.js)
 
 ### 2019 KAKAO BLIND RECRUITMENT
 
