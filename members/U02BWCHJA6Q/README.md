@@ -189,11 +189,17 @@
   - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/64063)
   - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/kakao_internship_2019/호텔_방_배정.js)
 
-  ### Summer/Winter Coding(~2018)
+### Summer/Winter Coding(~2018)
 
-  - [x] 스티커 모으기(2)
-    - [묹제링크](https://programmers.co.kr/learn/courses/30/lessons/12971)
-    - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/summer_winter_2018/스티커_모으기_2.js)
+- [x] 스티커 모으기(2)
+  - [묹제링크](https://programmers.co.kr/learn/courses/30/lessons/12971)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/summer_winter_2018/스티커_모으기_2.js)
+
+### 연습문제
+
+- [x] 방의 개수
+  - [문제링크](https://programmers.co.kr/learn/courses/30/lessons/49190)
+  - [코드](https://github.com/REVANgers/all-solved-club/blob/main/members/U02BWCHJA6Q/Programers/practice/방의_개수.js)
 
 ## leetcode
 
